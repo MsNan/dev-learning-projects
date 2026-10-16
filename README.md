@@ -58,3 +58,14 @@ static-common/         共用前端脚本与收款码
 0x-*/app.py            各项目后端
 0x-*/static/           各项目前端
 ```
+
+## ☕ 打赏支持
+
+如果这个项目对你有帮助，欢迎请作者喝杯咖啡，也欢迎点个 ⭐ Star！
+
+<table>
+  <tr>
+    <td align="center"><img src="docs/donate/wechat.jpg" alt="微信打赏" width="220"><br>微信</td>
+    <td align="center"><img src="docs/donate/alipay.jpg" alt="支付宝打赏" width="220"><br>支付宝</td>
+  </tr>
+</table>
